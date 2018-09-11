@@ -1,0 +1,13 @@
+.card.mycard{
+    background-color: rgb(192, 190, 190);
+    box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+body.signin-body{
+    background-image: url(minimal-wp.png);
+    background-size: contain;
+    background-size: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+
+}
