@@ -1,6 +1,5 @@
 # Cambiando y manejando versiones
+## Primer Proyecto a GitHub
 
-**Intento N°2**
-_Cambios_
-
-- Aun no entiendo el orden  de esto
+    - Creacion de un portal de logeo con HTML/CSS bootstrap y JS    
+    
