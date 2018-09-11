@@ -1,13 +1,30 @@
 .card.mycard{
     background-color: rgb(192, 190, 190);
     box-shadow: 6px 5px 5px 0px rgba(0,0,0,0.75);
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 body.signin-body{
     background-image: url(minimal-wp.png);
-    background-size: contain;
-    background-size: 100%;
-    height: auto;
-    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+div.form-signin{
+    text-align: center;
+}
+
+button.boton{
+    width: 100%;
+    background-color: rgba(3, 3, 83, 0.925)
+}
+
+nav.navigationbar{
+    background-color: rgb(192, 190, 190) !important;
+
+}
+
+.col-10.navigatorbar{
 
 }
