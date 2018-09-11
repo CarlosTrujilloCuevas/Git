@@ -6,3 +6,8 @@ function suma(a,b) {
 
 let resultado = suma(a,b);
 console.log(resultado);
+
+function resta(a,b){
+    let resta = a - b;
+    return resta;
+}
